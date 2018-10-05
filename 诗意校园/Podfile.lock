@@ -1,0 +1,70 @@
+PODS:
+  - ActiveLabel (0.8.1)
+  - Alamofire (4.7.3)
+  - BubbleTransition (3.0.1)
+  - Charts (3.1.1):
+    - Charts/Core (= 3.1.1)
+  - Charts/Core (3.1.1)
+  - DateTimePicker (1.2.1)
+  - DGElasticPullToRefresh (1.1)
+  - HandyJSON (4.1.3)
+  - Kingfisher (4.8.1)
+  - PagingMenuController (2.2.0)
+  - PasswordTextField (1.1.0)
+  - SwiftLint (0.25.1)
+  - SwiftyJSON (4.1.0)
+  - Toaster (2.1.1)
+  - TwicketSegmentedControl (0.1.2)
+
+DEPENDENCIES:
+  - ActiveLabel (~> 0.8.1)
+  - Alamofire
+  - BubbleTransition (~> 3.0.1)
+  - Charts (~> 3.1.1)
+  - DateTimePicker (~> 1.2.1)
+  - DGElasticPullToRefresh
+  - HandyJSON
+  - Kingfisher
+  - PagingMenuController (~> 2.2.0)
+  - PasswordTextField
+  - SwiftLint
+  - SwiftyJSON
+  - Toaster (~> 2.0)
+  - TwicketSegmentedControl (~> 0.1.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ActiveLabel
+    - Alamofire
+    - BubbleTransition
+    - Charts
+    - DateTimePicker
+    - DGElasticPullToRefresh
+    - HandyJSON
+    - Kingfisher
+    - PagingMenuController
+    - PasswordTextField
+    - SwiftLint
+    - SwiftyJSON
+    - Toaster
+    - TwicketSegmentedControl
+
+SPEC CHECKSUMS:
+  ActiveLabel: e361127c355b911a467db3d5a897b3d7f902e568
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  BubbleTransition: 5038c843e449052f1bbbe0451605c45ec5b3ca0a
+  Charts: 90a4d61da0f6e06684c591e3bcab11940fe61736
+  DateTimePicker: c7b10f7dfe6eb06014c88df964a0a994f246b791
+  DGElasticPullToRefresh: 28f11a6026302a90f8ffebbc6e24748e584dddd3
+  HandyJSON: bc81fbeb62d65ae5d5942ed29bc4a8265d18c1e8
+  Kingfisher: 868c1149679a7ab6869be118faa9b5aed154aaf0
+  PagingMenuController: 6176618987bb170096664f2da097313e45ed9c31
+  PasswordTextField: 35ee7f34448c3de061136cf2556a967f1a287476
+  SwiftLint: ce933681be10c3266e82576dad676fa815a602e9
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  Toaster: a6c9532de1ded8105e77376f7dffeb2e12b46dbb
+  TwicketSegmentedControl: 6d7a4cf243657e0ac3f00d06d873a25334c04042
+
+PODFILE CHECKSUM: 61dcf3fc5c46aa6a13968e25610db05f83650f52
+
+COCOAPODS: 1.5.3
